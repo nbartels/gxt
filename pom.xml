@@ -28,7 +28,7 @@
   </developers>
 
   <properties>
-    <gwtVersion>2.6.0-rc3</gwtVersion>
+    <gwtVersion>2.6.0</gwtVersion>
   </properties>
   
   
